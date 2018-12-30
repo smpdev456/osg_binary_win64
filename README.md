@@ -1,5 +1,5 @@
 # osg_binary_win64
-- Build version of OpenSceneGraph in Windows with MSVC x64
+- Release version of OpenSceneGraph in Windows with MSVC x64
 - OpenSceneGraph 3.6.3
 - OpenSceneGraph 3.6.3 documnetation
 - osgQt 3.5.7
