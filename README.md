@@ -2,5 +2,5 @@
 - Release version of OpenSceneGraph in Windows with MSVC x64
 - OpenSceneGraph 3.6.3
 - OpenSceneGraph 3.6.3 documnetation
-- osgQt 3.5.7
+- osgQt master 04/23/2018
 - Virtual Planet Builder 1.0.0rc1
