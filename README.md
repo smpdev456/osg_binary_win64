@@ -13,3 +13,44 @@
 This repository consist of example models and shader collection for the OpenSceneGraph 
 - Clone OpenSceneGraph-Data repository (https://github.com/openscenegraph/OpenSceneGraph-Data.git)
 - Add `OSG_FILE_PATH` environment variable that point to repository 
+# Built With These Options
+- [-] Collada
+- [x] Curl
+- [ ] DCMTK
+- [ ] DirectInput
+- [ ] DirectShow
+- [ ] EGL
+- [x] FBX
+- [x] ffmpeg
+- [-] freetype
+- [x] GDAL
+- [-] GIFLIB
+- [ ] GLIB
+- [ ] GStreamer
+- [ ] GTA
+- [ ] ILMBASE
+- [ ] INVENTOR
+- [ ] JASPER
+- [ ] Jpeg
+- [ ] LIBLAS
+- [ ] LIBVNCSERVER
+- [x] LIBXML2
+- [x] NVBC6H
+- [x] NVBC7
+- [x] NVCORE
+- [x] NVIMAGE
+- [x] NVMATH
+- [x] NVSQUISH
+- [x] NVTHREAD
+- [x] NVTT
+- [ ] OPENCASCADE
+- [ ] OPENEXR
+- [x] OPENGL
+- [ ] OPENVRML
+- [x] PNG
+- [ ] QUICKTIME
+- [ ] SDL2
+- [x] TIFF
+- [ ] ZEROCONF
+- [x] ZLIB
+
